@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Greener Grass 4`,
+    title: `Greener Grass 5`,
     description: `Thoughts about the software on the other site of the fense.`,
     author: `@gatsbyjs`,
   },
